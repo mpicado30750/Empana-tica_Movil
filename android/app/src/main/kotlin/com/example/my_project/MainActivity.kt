@@ -1,0 +1,6 @@
+package com.mycompany.plataformamovil
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
